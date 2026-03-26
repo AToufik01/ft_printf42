@@ -17,7 +17,7 @@ The goal is to understand variadic functions (`va_list`, `va_arg`, `va_start`, `
 ft_printf/
 ├── ft_printf.c      # Main function
 ├── ft_printf.h      # Header file
-├── ft_utils.c       # Helper functions
+├── ft_*.c       # Helper functions
 └── Makefile         # Build rules
 ```
 
