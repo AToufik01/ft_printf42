@@ -35,7 +35,7 @@ make re     # fclean + make
 To use in your project:
 
 ```bash
-gcc main.c -L. libftprintf.a -o my_program
+gcc main.c libftprintf.a -o my_program
 ```
 
 ---
